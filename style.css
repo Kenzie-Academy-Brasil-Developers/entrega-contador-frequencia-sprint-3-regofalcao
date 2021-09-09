@@ -1,0 +1,31 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background  : linear-gradient(90deg, #050939 0%, #141A61 47.57%, #050939 93.19%);;
+}
+
+textarea{
+    display: flex;
+    width: 90%;
+    border: solid #e7004c;
+    background-color: #141A61; 
+    color: #e7004c;
+}
+button{
+
+    max-width: fit-content;
+    align-items: center;
+  
+
+}
+#lettersDiv{
+    color: #e7004c;
+    margin-top: 30px;
+    width: 80%;
+}
+
+#wordsDiv{
+    color: #e7004c;
+    width:80%;
+}
